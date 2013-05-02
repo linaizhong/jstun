@@ -1,0 +1,28 @@
+#!/bin/bash
+
+cd src
+
+PORT1="9800"
+PORT2="9801"
+IP1="192.168.233.131"
+IP2="192.168.233.132"
+
+if [ "$1" != "" ]; then
+    PORT1="$1"
+fi
+if [ "$2" != "" ]; then
+    IP1="$2"
+fi
+if [ "$3" != "" ]; then
+    PORT2="$3"
+fi
+if [ "$4" != "" ]; then
+    IP2="$4"
+fi
+
+echo "port1 = $PORT1, ip1 = $IP1, port2 = $PORT2, ip2 = $IP2";
+
+echo "Building..."
+javac -cp "../*:./" de/javawi/jstun/test/demo/StunServer.java
+echo "Running..."
+java -cp "../*:./" de/javawi/jstun/test/demo/StunServer 9800 192.168.233.132 9801 192.168.233.131

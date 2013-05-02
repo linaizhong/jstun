@@ -1,0 +1,60 @@
+02-May-2013 13:06:35 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 datagram received from 192.168.233.131:60583
+02-May-2013 13:06:35 de.javawi.jstun.header.MessageHeader parseHeader
+FINE: Binding Request received.
+02-May-2013 13:06:35 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 Binding Request received from 192.168.233.131:60583
+02-May-2013 13:06:35 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: Nothing received in Change Request attribute
+02-May-2013 13:06:35 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 send Binding Response to 192.168.233.131:60583
+02-May-2013 13:06:55 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 datagram received from 192.168.233.131:55538
+02-May-2013 13:06:55 de.javawi.jstun.header.MessageHeader parseHeader
+FINE: Binding Request received.
+02-May-2013 13:06:55 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 Binding Request received from 192.168.233.131:55538
+02-May-2013 13:06:55 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: Nothing received in Change Request attribute
+02-May-2013 13:06:55 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 send Binding Response to 192.168.233.131:55538
+02-May-2013 13:06:56 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 datagram received from 192.168.233.131:39170
+02-May-2013 13:06:56 de.javawi.jstun.header.MessageHeader parseHeader
+FINE: Binding Request received.
+02-May-2013 13:06:56 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 Binding Request received from 192.168.233.131:39170
+02-May-2013 13:06:56 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: Nothing received in Change Request attribute
+02-May-2013 13:06:56 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 send Binding Response to 192.168.233.131:39170
+02-May-2013 13:06:57 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 datagram received from 192.168.233.131:38393
+02-May-2013 13:06:57 de.javawi.jstun.header.MessageHeader parseHeader
+FINE: Binding Request received.
+02-May-2013 13:06:57 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 Binding Request received from 192.168.233.131:38393
+02-May-2013 13:06:57 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: Nothing received in Change Request attribute
+02-May-2013 13:06:57 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 send Binding Response to 192.168.233.131:38393
+02-May-2013 13:06:59 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 datagram received from 192.168.233.131:41745
+02-May-2013 13:06:59 de.javawi.jstun.header.MessageHeader parseHeader
+FINE: Binding Request received.
+02-May-2013 13:06:59 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 Binding Request received from 192.168.233.131:41745
+02-May-2013 13:06:59 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: Nothing received in Change Request attribute
+02-May-2013 13:06:59 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 send Binding Response to 192.168.233.131:41745
+02-May-2013 13:07:01 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 datagram received from 192.168.233.131:46150
+02-May-2013 13:07:01 de.javawi.jstun.header.MessageHeader parseHeader
+FINE: Binding Request received.
+02-May-2013 13:07:01 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 Binding Request received from 192.168.233.131:46150
+02-May-2013 13:07:01 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: Nothing received in Change Request attribute
+02-May-2013 13:07:01 de.javawi.jstun.test.demo.StunServer$StunServerReceiverThread run
+FINE: 192.168.233.131:9801 send Binding Response to 192.168.233.131:46150

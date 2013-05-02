@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ "$1" != "" ]; then
+    echo "Building..."
+        javac -cp "./*:./src/:./" $1.java
+    echo "Running..."
+        java -cp "./*:./src/:./" $1
+else
+    echo "No src name given"
+fi
