@@ -14,7 +14,7 @@ Just a copy of JStun (http://jstun.javawi.de/) with my notes as I work out how t
 
 <h4>Resources</h4>
 
-<b>An nice description of how STUN works<b>
+<b>A nice description of how STUN works<b>
 
 <p>http://www.vocal.com/networking/classic-stun-simple-traversal-of-udp-through-nat/</p>
 
